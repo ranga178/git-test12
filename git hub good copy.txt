@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Horse Among Cows</title>
+    <p>The Story of Aaron</p>
+</head>
+I was born on March 7th 2002 in Newmarket Ontario as Abigail Girard.
+I grew up with my parents shawn and Maureen, as well as my older sister Claire. As a young kid I was a pokemon fanatic and collected 
+many trading cards. I also was a huge fan of lego and starwars. As I have grown older I have grew fond of batman. I see myself as a person
+who aspires to remain postive when chaos is near. I am someone who is figuring out their identity one day at a time.    
+
+<body>
+      Over the years I have had many different hobbies.
+     For example, reading comic books,playing basketball, playing video games as well as practicing MMA.One of my other hobbies
+     has been  collecting and watching batman. He is one of my favourite super heros to watch.  Something always felt different about
+     me and I always felt I didnt fit in with my fellow  peers. As I have grown over the last few years I have come to realise that I am a boy. I will skip
+     all the details about how I realised I was Transgender as I know why I am put cannot put it into words yet. Its a process that will take
+     time. As a kid I went to a small catholic school called Good Shepherd Elementary school in East Gwillumbury. When I turned 14 
+     I went to Sacred Heart Catholic highschool in Newmarket. 
+    
+</body>
+    I have a handful achievements that I am proud of myself for. The one im most proud of is coming to terms with myself. Being able to truly 
+understand who I actually am has been a liberating experience. As a kid I use to play rep basketball and was 
+a pretty decent player. As a teenager I have competed in 3 jiu jitsu tournaments and have placed gold
+in one and silver in the other 2. Also as a teenager I was a skilled boxer and would spar people at local gyms in my area.  
+
+</body>
+   My goals for the future is to be an affluent swing trader. Trading crypto has been a passion of mine. 
+Being able to look at charts and estimating what the next move willbe is very interesting to me. I hope to be able to make
+ passive income from trading. Being able to graduate from the Computer programming course with A's is also a goal I have in mind. 
+ After graduating with flying colours I hope to be able to find a job that makes me happy with a nice salary.My other goal is to one day 
+ to buy a tesla. 
+
+</html>
